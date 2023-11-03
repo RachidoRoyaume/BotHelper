@@ -4,7 +4,7 @@ from discord.ext import commands
 intents = discord.Intents.all()
 
 bot = commands.Bot(command_prefix='!', intents=intents)
-
+Token = "Ton token"
 deleted_channels = []  
 
 @bot.event
@@ -71,4 +71,4 @@ async def restore(ctx):
     else:
         await ctx.send("Vous n'avez pas la permission d'utiliser cette commande.")
 
-bot.run('MTE3MDAyMDI3NzgyOTI1NTIyOQ.GZBh3k.ScZaR4okKZKvGqmLw0Ks8tx-JFq_AD5Yu_ED8Q')
+bot.run(Token)
