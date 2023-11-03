@@ -9,9 +9,9 @@ et mettre le token du bot dans "Token = "" "
 
 # Utilité 
 
-- ✅ ``!clear_all_channels`` : Permet de savoir dans quel vocal est le membre mentioné.
-- ✅ ``!restore`` : Permet de rejoindre le vocal de la personne mentioné.
-- ✅ ``!createChannel + Nombre`` : Permet de kick toutes les personnes dans votre vocal.
+- ✅ ``!clear_all_channels`` : Permet de Enlever tout les salon sur ton serveur discord
+- ✅ ``!restore`` : Permet de réstauré tout les salon supprimé avec la commande clear all channels
+- ✅ ``!createChannel + Nombre`` : Permet de Créer des salon 
 
 # Auteur 
 
