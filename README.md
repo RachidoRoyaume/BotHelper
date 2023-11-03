@@ -5,7 +5,7 @@ est un bot pour aidez les modérateur du serveur
 
 Besoin de python
 et visual studio code
-et mettre le token du bot dans "Bot = "" "
+et mettre le token du bot dans "Token = "" "
 
 # Utilité 
 
