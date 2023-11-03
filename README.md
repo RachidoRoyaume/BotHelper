@@ -15,6 +15,6 @@ et mettre le token du bot dans "Bot = "" "
 
 # Auteur 
 
-[@RachidoRoyaume]((https://www.github.com/RachidoRoyaume)
+[@RachidoRoyaume](https://www.github.com/RachidoRoyaume)
 
 
